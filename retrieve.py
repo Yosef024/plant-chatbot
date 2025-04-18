@@ -27,7 +27,7 @@ TOP_K = 20
 
 # --- Load API Key (Hardcoded) ---
 # !!! WARNING: Hardcoding keys is a security risk. Consider environment variables for shared code. !!!
-GOOGLE_API_KEY = "AIzaSyDRSwgdDw0TItr9Jbz0pZdisYDWbdq6EIg" # <--- PASTE YOUR GEMINI API KEY HERE
+GOOGLE_API_KEY = "YOUR_ACTUAL_API_KEY_HERE" # <--- PASTE YOUR GEMINI API KEY HERE
 
 # Basic check if the key was actually pasted
 if not GOOGLE_API_KEY or GOOGLE_API_KEY == "YOUR_ACTUAL_API_KEY_HERE":

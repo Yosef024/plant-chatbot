@@ -15,10 +15,6 @@ plants are recommended and should be used whenever possible.
 Bacterial Wilt 
  
 Bacterial wilt (Ralstonia solanacearum) causing a rapid wilting of tomato plants. 
-Zachary Boone Snipes, ©2015 Clemson Extension""",
-    """Bacterial Wilt 
- 
-Bacterial wilt (Ralstonia solanacearum) causing a rapid wilting of tomato plants. 
 Zachary Boone Snipes, ©2015 Clemson Extension 
 Bacterial wilt or Southern bacterial blight is a serious disease caused by Ralstonia 
 solanacearum (formerly Pseudomonas solanacearum). This bacterium survives in the soil 
@@ -28,8 +24,7 @@ Disease development is favored by high temperatures and high moisture. The bacte
 multiply rapidly inside the water-conducting tissue of the plant, filling it with slime. This 
 results in rapid wilt of the plant while the leaves stay green. If an infected stem is cut 
 crosswise, it will look brown and tiny drops of yellowish ooze may be visible. 
-Prevention & Treatment: Control of bacterial wilt of plants grown in infested soil is""",
-    """Prevention & Treatment: Control of bacterial wilt of plants grown in infested soil is 
+Prevention & Treatment: Control of bacterial wilt of plants grown in infested soil is 
 difficult. Rotation with non-susceptible plants, such as corn, beans, and cabbage, for at 
 least three years provides some control. Do not use pepper, eggplant, potato, sunflower, or 
 cosmos in this rotation. Remove and destroy all infected plant material. Plant only certified 
@@ -52,8 +47,7 @@ enlarge and concentric rings in a bull’s-eye pattern may be seen in the center
 diseased area. The tissue surrounding the spots may turn yellow. If high temperature and 
 humidity occur at this time, much of the foliage is killed. Lesions on the stems are similar 
 to those on leaves and sometimes girdle the plant if they occur near the soil line (collar rot). 
-On the fruits, lesions attain considerable size, usually involving nearly the entire fruit.""",
-    """On the fruits, lesions attain considerable size, usually involving nearly the entire fruit. 
+On the fruits, lesions attain considerable size, usually involving nearly the entire fruit. 
 Concentric rings are also present on the fruit. Infected fruit frequently drops. 
 The fungus survives on infected debris in the soil, on seed, on volunteer tomato plants, and 
 other solanaceous hosts, such as Irish potato, eggplant, and black nightshade (a common, 
@@ -64,8 +58,7 @@ volunteer tomato plants, space plants to not touch, mulch plants, fertilize prop
 wet tomato foliage with irrigation water, and keep the plants growing vigorously. Trim off 
 and dispose of infected lower branches and leaves. 
 To reduce disease severity, test the garden soil annually and maintain a sufficient level of 
-potassium. Lime the soil according to soil test results. Side dress tomato plants monthly""",
-    """potassium. Lime the soil according to soil test results. Side dress tomato plants monthly 
+potassium. Lime the soil according to soil test results. Side dress tomato plants monthly 
 with calcium nitrate for adequate growth. 
 If the disease is severe enough to warrant chemical control, select one of the following 
 fungicides: mancozeb (very good); chlorothalonil or copper fungicides (good). Follow the 
@@ -87,8 +80,6 @@ blight problems:
 • Keep foliage dry. Locate your garden where it will receive morning sun. 
 • Allow extra room between the plants, and avoid overhead watering, especially late 
 in the day. 
-• Purchase certified disease-free seeds and plants.""",
-    """in the day. 
 • Purchase certified disease-free seeds and plants. 
 • Destroy volunteer tomato and potato plants, as well as nightshade family weeds, 
 such as Carolina horsenettle or black nightshade, which may harbor the fungus. 
@@ -105,8 +96,7 @@ Septoria leaf spot (Septoria lycopersici) on tomato.
 Joey Williamson, ©2013 HGIC, Clemson Extension 
 Septoria Leaf Spot 
 This destructive disease of tomato foliage, petioles, and stems (fruit is not infected) is 
-caused by the fungus Septoria lycopersici. Infection usually occurs on the lower leaves""",
-    """caused by the fungus Septoria lycopersici. Infection usually occurs on the lower leaves 
+caused by the fungus Septoria lycopersici. Infection usually occurs on the lower leaves 
 near the ground, after plants begin to set fruit. Numerous small, circular spots with dark 
 borders surrounding a beige-colored center appear on the older leaves. Tiny black specks,""",
     """which are spore-producing bodies, can be seen in the center of the spots. Severely spotted 
@@ -120,8 +110,6 @@ Septoria leaf spot. Crop rotation of 3 years and sanitation (removal of crop deb
 reduce the amount of inoculum. Do not use overhead irrigation. Repeated fungicide 
 applications with chlorothalonil (very good) or copper fungicide, or mancozeb (good) will 
 keep the disease in check. See Table 1 for examples of fungicide products for home garden 
-use.""",
-    """keep the disease in check. See Table 1 for examples of fungicide products for home garden 
 use. 
 Leaf Mold 
 The fungus Passalora fulva causes leaf mold. It is first observed on older leaves near the 
@@ -134,10 +122,6 @@ fruits. Green and mature fruit can have a black, leathery rot on the stem end.
  
 Leaf mold (Passalora fulva) on tomato foliage. 
 Joey Williamson, ©2012 HGIC, Clemson Extension 
- 
-Leaf mold (Passalora fulva) on lower leaf surface. 
-Joey Williamson, ©2012 HGIC, Clemson Extension""",
-    """Joey Williamson, ©2012 HGIC, Clemson Extension 
  
 Leaf mold (Passalora fulva) on lower leaf surface. 
 Joey Williamson, ©2012 HGIC, Clemson Extension 
@@ -163,10 +147,6 @@ Bacterial Spot (Xanthomonas perforans) symptoms can be seen on both foliage and
 tomato fruit under ideal conditions. 
 Zack Snipes, ©2020, Clemson Extension 
  
-Bacterial Spot (Xanthomonas perforans) symptoms on tomato leaves.""",
-    """tomato fruit under ideal conditions. 
-Zack Snipes, ©2020, Clemson Extension 
- 
 Bacterial Spot (Xanthomonas perforans) symptoms on tomato leaves. 
 Zachary Boone Snipes, ©2015 Clemson Extension 
 The bacteria survive the winter on volunteer tomato plants and on infected plant debris. 
@@ -177,8 +157,7 @@ mechanical injuries.
 Bacterial spot is difficult to control once it appears in the field. Any water movement from 
 one leaf or plant to another, such as splashing raindrops, overhead irrigation, and touching 
 or handling wet plants, may spread the bacteria from diseased to healthy plants. 
-Prevention & Treatment: Only use certified disease-free seeds and plants. Avoid areas""",
-    """Prevention & Treatment: Only use certified disease-free seeds and plants. Avoid areas 
+Prevention & Treatment: Only use certified disease-free seeds and plants. Avoid areas 
 that were planted with peppers or tomatoes during the previous year. Avoid overhead 
 watering by using drip or furrow irrigation. Remove and dispose of all diseased plant 
 material. Prune plants to promote air circulation. Spraying with a copper fungicide will give 
@@ -195,8 +174,7 @@ rapidly growing tomato plants during cloudy, cool, and moist environmental condi
 Symptoms: The early symptoms of this disease are blackened (necrotic) areas on the 
 stems, which may first appear adjacent to leaf petioles. The blackened areas coalesce and 
 extend as a band along the stem, as well as out onto the leaf petioles. Portions of leaf 
-blades also may become blackened following infection of the leaf petiole.""",
-    """blades also may become blackened following infection of the leaf petiole. 
+blades also may become blackened following infection of the leaf petiole. 
 As the disease progresses, the bacteria colonize the interior of the stems, which may cause 
 the stem to split. Stems may shrink, crack, and the pith (the stem interior) may become 
 segmented or laddered. Eventually, the stems become hollow inside. This stem damage 
@@ -210,8 +188,6 @@ Joey Williamson, ©2018 HGIC, Clemson Extension
 The necrotic stem lesions develop into bands that extend several inches up and down the 
 stem from the point of infection. After extending onto leaf petioles, necrotic areas appear 
 on the leaf blades. Eventually, entire leaves will wither. 
-Joey Williamson, © 2018 HGIC, Clemson Extension""",
-    """on the leaf blades. Eventually, entire leaves will wither. 
 Joey Williamson, © 2018 HGIC, Clemson Extension 
  
 As the bacterial infection progresses, more of the main stem turns brown and dies. 
@@ -232,8 +208,7 @@ Identify which disease is affecting the tomato crop by submitting a plant sample
 the local Extension office. The plant material will be sent for a fee to the Clemson Plant & 
 Pest Diagnostic Clinic for diagnosis and control recommendations. 
 Control: As the weather becomes warmer, plants may recover as the rapid spring growth 
-slows. Do not use over-head irrigation to water the garden, but water at the base of the""",
-    """slows. Do not use over-head irrigation to water the garden, but water at the base of the 
+slows. Do not use over-head irrigation to water the garden, but water at the base of the 
 plants by drip irrigation, soaker hoses, or by hand with a garden hose. The frequency of 
 irrigation should be increased to provide adequate soil moisture for recovery. However, if 
 plants succumb to pith necrosis, carefully remove and dispose of diseased plants, 
@@ -244,8 +219,7 @@ see HGIC 1652, Soil Testing, and HGIC 1323, Tomato.
 Because these soil-inhabiting bacteria can exist in the soil until the next season, practice a 
 3-year crop rotation within the vegetable garden. In the future, space out tomato plants in 
 the garden to 3 feet apart. This will improve air circulation around plants and enhance the 
-drying of foliage from dew or rainfall. Plant according to the recommended spring planting""",
-    """drying of foliage from dew or rainfall. Plant according to the recommended spring planting 
+drying of foliage from dew or rainfall. Plant according to the recommended spring planting 
 dates in HGIC 1256, Planning a Garden. Avoid planting in early spring when conditions are 
 cool and moist. There are no spray treatments to reduce disease. 
 Buckeye Rot 
@@ -269,8 +243,7 @@ Anthracnose (Colletotrichum species) on tomato fruit.
 Joey Williamson, ©2013 HGIC, Clemson Extension 
 Anthracnose on tomatoes is caused by a group of fungi within the genus Colletotrichum, 
 and these species are primarily pathogens of the tomato fruit. As the fruit are ripening, the 
-symptoms first become noticeable as small, circular indented areas, which later develop""",
-    """symptoms first become noticeable as small, circular indented areas, which later develop 
+symptoms first become noticeable as small, circular indented areas, which later develop 
 darkened centers. The diseased spots continue to grow larger with time as each infection 
 site also spreads deeper into the fruit. With warm, moist, and humid weather (from rainfall 
 or overhead irrigation), the fungus produces salmon-colored spores that are exuded from 
@@ -281,8 +254,7 @@ anthracnose of tomato may be within the seed. Tomato seed may be treated by soak
 them in hot water (122 ºF) for 25 minutes to destroy the fungus. Some varieties of tomatoes 
 have resistance to anthracnose, such as Chef’s Choice Orange Hybrid. 
 Do not overhead irrigate tomatoes, as splashing water aids in the spread of fungal spores. 
-Plant the garden in a sunny site and stake or cage tomato plants to provide better air""",
-    """Plant the garden in a sunny site and stake or cage tomato plants to provide better air 
+Plant the garden in a sunny site and stake or cage tomato plants to provide better air 
 movement and leaf drying conditions. Keep the garden weed-free, as the presence of 
 weeds may raise humidity levels around plants and slow drying conditions. 
 Because this disease affects other plants in the tomato family (Solanaceae), such as 
@@ -305,8 +277,7 @@ This is a warm-weather disease caused by the fungus Fusarium oxysporum. The firs
 indication of disease in small plants is a drooping and wilting of lower leaves with a loss of 
 green color followed by wilting and death of the plant. Often leaves on only one side of the 
 stem turn golden yellow at first. The stem of wilted plants shows no soft decay, but when 
-cut lengthwise, the lower stem will have a dark brown discoloration of the water-""",
-    """cut lengthwise, the lower stem will have a dark brown discoloration of the water-
+cut lengthwise, the lower stem will have a dark brown discoloration of the water-
 conducting vessels. The fungus is soil-borne and passes upward from the roots into the 
 water-conducting system of the stem. Blocking of the water-conducting vessels is the main 
 reason for wilting. Invasion occurs through wounds in roots growing through infested soil. 
@@ -317,8 +288,6 @@ wilt (indicated by FF following the tomato cultivar name). Some newer cultivars 
 resistant to races 1, 2, and 3, and are found listed in Table 4. Raising the soil pH to 6.5 – 7.0 
 and using nitrate nitrogen (such as in calcium nitrate) rather than ammoniacal nitrogen (as 
 in 5-10-10, 10-10-10, or 34-0-0) will retard disease development. No chemical control is 
-available.""",
-    """in 5-10-10, 10-10-10, or 34-0-0) will retard disease development. No chemical control is 
 available. 
  
 Sclerotia and mycelium of Athelia rolfsii (synonym Sclerotium rolfsii) 
@@ -344,8 +313,6 @@ the soil line.
 Prevention & Treatment: Damping-off is often a problem in plants that are planted too 
 early in the spring. The fungi are more active in cool, wet, rich soils. To prevent damping-off, 
 take these precautions: 
-• Start seeds indoors in sterilized potting mix and use new or clean containers.""",
-    """take these precautions: 
 • Start seeds indoors in sterilized potting mix and use new or clean containers. 
 • Do not start seeds in soil that has a high nitrogen level. Add nitrogen fertilizer after 
 the seedlings have produced their first true leaves. 
@@ -358,8 +325,6 @@ garden, random plants may appear stunted, and younger leaves may be marked with
 bronze or dark spots or have prominent purple veins. Often the upper foliage will become 
 twisted and cupped as the bronze areas expand. Fruits may have yellow spots. Younger 
 plants may wilt and die, but older plants may survive and bear discolored fruit that may not 
-fully ripen.""",
-    """plants may wilt and die, but older plants may survive and bear discolored fruit that may not 
 fully ripen. 
 Prevention & Treatment: Eliminating weeds in the garden is the first step in reducing the 
 chance of acquiring TSWV . Keeping the grass and weeds mowed in areas surrounding the 
@@ -382,8 +347,7 @@ There is no cure for a plant with TSWV . Roguing or removing infected plants imm
 from the garden may help reduce the incidence of disease on additional plants. However, 
 feeding by thrips can transmit the virus to plants within minutes. Because of this rapid 
 infection time, insecticidal sprays may be of no use for the home gardener. 
-Seeds of several TSWV-resistant cultivars of tomatoes are available from mail-order seed""",
-    """Seeds of several TSWV-resistant cultivars of tomatoes are available from mail-order seed 
+Seeds of several TSWV-resistant cultivars of tomatoes are available from mail-order seed 
 companies. These cultivars are resistant but not totally immune. They may acquire the 
 virus, but yields and fruit quality may remain acceptable. Look for cultivars with resistance 
 if this has been a problem in the past. See Table 5 below for recommended TSWV-resistant 
@@ -397,8 +361,6 @@ disease is extremely damaging to fruit yield in both tomato and pepper crops. Wh
 may bring the disease into the garden from infected weeds nearby, such as various 
 nightshades and jimsonweed. After infection, tomato plants may be symptomless for as 
 long as 2 to 3 weeks. 
-Symptoms in tomato plants are the upward curling of leaves, yellow (chlorotic) leaf""",
-    """long as 2 to 3 weeks. 
 Symptoms in tomato plants are the upward curling of leaves, yellow (chlorotic) leaf 
 margins, smaller leaves than normal, plant stunting, and flower drop. If tomato plants are""",
     """infected early in their growth, there may be no fruit formed. Infected plants may appear 
@@ -412,8 +374,7 @@ around the garden site, as these may be alternate hosts for whiteflies. Reflecti
 Low concentration sprays of a horticultural oil or canola oil will act as a whitefly repellent, 
 reduce feeding and possibly transmission of the virus. Use a 0.25 to 0.5% oil spray (2 to 4 
 teaspoons horticultural or canola oil & a few drops of dish soap per gallon of water) weekly. 
-Examples of products containing horticultural oil are:""",
-    """Examples of products containing horticultural oil are: 
+Examples of products containing horticultural oil are: 
 Bonide All Seasons Spray Oil Concentrate 
 • Ferti-lome Horticultural Oil Spray Concentrate 
 • Monterey Horticultural Oil Concentrate 
@@ -428,8 +389,6 @@ mottling of older leaves and may cause the malformation of leaflets, which may b
 shoestring-like in shape. 
 Viruses are highly infectious and readily transmitted by any means that introduces even a 
 minute amount of sap from infected into healthy plants. 
-Prevention & Treatment: There are no chemical controls for viruses. Remove and destroy""",
-    """minute amount of sap from infected into healthy plants. 
 Prevention & Treatment: There are no chemical controls for viruses. Remove and destroy 
 infected plants promptly. Wash hands thoroughly after smoking (the Tobacco mosaic 
 virus may be present in certain types of tobacco) and before working in the garden. 
@@ -449,8 +408,7 @@ and in plant roots. Affected plants are usually stunted, discolored, and may die
 galls develop on the roots. 
 Prevention & Treatment: When nematodes are not yet present, move the tomato crop to a 
 different area within the garden every year, purchase disease-free plants, pull up and 
-dispose of roots immediately after harvest, and use resistant cultivars (indicated by N""",
-    """dispose of roots immediately after harvest, and use resistant cultivars (indicated by N 
+dispose of roots immediately after harvest, and use resistant cultivars (indicated by N 
 following tomato cultivar name). See Table 7 for cultivars resistant to root-knot nematodes. 
 When root-knot nematodes are present, relocate the garden to a nematode-free area. Use 
 nematode resistant tomato cultivars. Establish a rotation system using marigold cultivars 
@@ -464,8 +422,7 @@ Joey Williamson, ©2009 HGIC, Clemson Extension
 Blossom End Rot: Blossom end rot is a physiological disorder of tomato. Symptoms are 
 water-soaked spots on the blossom end of the fruit. These spots enlarge and become 
 black. Secondary infection by decay-causing organisms usually follows. 
-The cause of this disorder is a calcium deficiency in the developing fruit. Extreme""",
-    """The cause of this disorder is a calcium deficiency in the developing fruit. Extreme 
+The cause of this disorder is a calcium deficiency in the developing fruit. Extreme 
 fluctuations in moisture, rainy or cloudy weather with high humidity, cool temperatures, 
 insufficient soil calcium, root pruning from nearby cultivation, and excessive ammoniacal 
 (NH4 +) nitrogen, potassium, or magnesium fertilization can also increase the chances of 
@@ -480,8 +437,7 @@ is best tilled into the soil before planting at 1 to 2 pounds per 100 square fee
 Avoid excessive potassium or magnesium fertilization as these nutrients will compete with 
 calcium for uptake by the plants. Epsom salt is an example of a magnesium source, so do 
 not apply to garden soil unless a recent soil report indicates a magnesium deficiency. 
-Avoid ammoniacal nitrogen fertilizers for sidedress applications (beside or around the""",
-    """Avoid ammoniacal nitrogen fertilizers for sidedress applications (beside or around the 
+Avoid ammoniacal nitrogen fertilizers for sidedress applications (beside or around the 
 plants), as ammoniacal nitrogen also will compete with calcium for uptake. Examples of 
 fertilizers with ammoniacal nitrogen are ammonium sulfate, ammonium nitrate, and most 
 complete fertilizers, such as 10-10-10. A calcium nitrate (15.5-0-0) side dress fertilizer is 
@@ -491,8 +447,7 @@ Mulches will not only keep the soil cooler and more evenly moist but will suppre
 thus reducing the need for nearby cultivation that may damage tomato roots. Remove fruit 
 with blossom end rot symptoms from the plants. 
 However, if blossom end rot occurs because the soil was not tested and neither lime nor 
-gypsum was applied pre-plant, then the application of gypsum at 1 to 2 pounds per 100""",
-    """gypsum was applied pre-plant, then the application of gypsum at 1 to 2 pounds per 100 
+gypsum was applied pre-plant, then the application of gypsum at 1 to 2 pounds per 100 
 square feet as a sidedress supplement has proven beneficial. See Table 8 for tomato 
 cultivars with resistance to blossom end rot. 
 Sunscald: Sunscald occurs when tomatoes are exposed to the direct rays of the sun during 
@@ -517,8 +472,7 @@ expense of blossom and fruit formation. Correct the nitrogen imbalance with
 superphosphate or 0-20-20 fertilizer. 
 Catfacing: This is a disorder caused by cold temperatures during fruit set. The fruit is 
 extremely malformed and scarred, usually at the blossom end. Fruits that develop later in 
-the season will not be affected. The cultivar Homestead 24 is resistant to catfacing.""",
-    """the season will not be affected. The cultivar Homestead 24 is resistant to catfacing. 
+the season will not be affected. The cultivar Homestead 24 is resistant to catfacing. 
  
 Tomato plant with Tomato yellow leaf curl virus. 
 Zachary Boone Snipes, ©2015 Clemson Extension 
@@ -529,8 +483,7 @@ curling of the leaflets, but may progress to affect up to 75 percent of the foli
 leaves may feel leathery and stiff. Often the condition of leaf roll occurs once the plants are 
 under the stress of a heavy fruit set. Some cultivars are more prone to leaf roll than others. 
 Prevention & Treatment: The symptom of leaf roll does not significantly damage the crop. 
-To help prevent this disorder, tomatoes should be planted on well-drained soil and be""",
-    """To help prevent this disorder, tomatoes should be planted on well-drained soil and be 
+To help prevent this disorder, tomatoes should be planted on well-drained soil and be 
 irrigated during periods of drought. For more information on physiological leaf roll, please 
 see HGIC 2222, Tomato Leaves Rolling? 
 Herbicide Injury: Drift from nearby sprays of broadleaf weed killers used on turfgrass, such 
@@ -550,8 +503,7 @@ fungicides), as well as soil-applied, systemic insecticides unless absolutely ne
 spraying is required, always spray late in the evening to reduce the direct impact on 
 pollinating insects. Always try less toxic alternative sprays first for the control of insect 
 pests and diseases. For example, sprays with insecticidal soap, horticultural oil, neem oil 
-extract, spinosad, Bacillus thuringiensis (B.t.), or botanical oils can help control many""",
-    """extract, spinosad, Bacillus thuringiensis (B.t.), or botanical oils can help control many 
+extract, spinosad, Bacillus thuringiensis (B.t.), or botanical oils can help control many 
 small insect pests and mites that affect garden and landscape plants. Neem oil extract or 
 botanical oil sprays may also reduce plant damage by repelling many insect pests. Practice 
 cultural techniques to prevent or reduce the incidence of plant diseases, including pre-
@@ -561,8 +513,6 @@ watering of established plants. Additionally, there are less toxic spray fungici
 contain sulfur or copper soap, and biological control sprays for plant diseases that 
 contain Bacillus subtilis. However, it is very important always to read and follow the label 
 directions on each product. For more information, contact the Clemson Extension Home & 
-Garden Information Center.""",
-    """directions on each product. For more information, contact the Clemson Extension Home & 
 Garden Information Center. 
 Table 1. Fungicide Products for Home Garden Disease Control on Tomatoes. 
 Fungicide Active Ingredient Examples of Products Containing the Active Ingredient 
@@ -592,14 +542,6 @@ Southern Ag Liquid Copper Fungicide (8%)
 2 For copper fungicide concentrates, the greater the metallic copper content, the better the control of bacterial & 
 fungal diseases. 
 Table 2. Tomato Cultivars with Resistance to Early Blight. 
-Tomato Cultivar 
-Other Disease 
-Resistance* 
-Plant Growth 
-Habit** 
-Days to 
-Ripeness""",
-    """Table 2. Tomato Cultivars with Resistance to Early Blight. 
 Tomato Cultivar 
 Other Disease 
 Resistance* 

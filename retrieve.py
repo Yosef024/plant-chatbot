@@ -26,7 +26,7 @@ GEMINI_MODEL_NAME = "gemini-2.0-flash"
 TOP_K = 15
 
 # --- Load API Key (Hardcoded) ---
-GOOGLE_API_KEY = "AIzaSyDRSwgdDw0TItr9Jbz0pZdisYDWbdq6EIg" # <--- PASTE YOUR GEMINI API KEY HERE
+GOOGLE_API_KEY = "" # <--- PASTE YOUR GEMINI API KEY HERE
 
 # Basic check if the key was actually pasted
 if not GOOGLE_API_KEY or GOOGLE_API_KEY == "YOUR_ACTUAL_API_KEY_HERE":

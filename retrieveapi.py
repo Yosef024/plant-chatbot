@@ -15,7 +15,7 @@ except ImportError:
     raise ImportError("Could not import DOCUMENT_CHUNKS from chunks.py. Make sure it exists.")
 
 # Constants
-GOOGLE_API_KEY = "AIzaSyDRSwgdDw0TItr9Jbz0pZdisYDWbdq6EIg"
+GOOGLE_API_KEY = ""
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 GEMINI_MODEL_NAME = "gemini-2.0-flash"
 TOP_K = 15

@@ -23,16 +23,15 @@ except Exception as e:
 # --- Configuration ---
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 GEMINI_MODEL_NAME = "gemini-2.0-flash"
-TOP_K = 20
+TOP_K = 15
 
 # --- Load API Key (Hardcoded) ---
-# !!! WARNING: Hardcoding keys is a security risk. Consider environment variables for shared code. !!!
-GOOGLE_API_KEY = "YOUR_ACTUAL_API_KEY_HERE" # <--- PASTE YOUR GEMINI API KEY HERE
+GOOGLE_API_KEY = "AIzaSyDRSwgdDw0TItr9Jbz0pZdisYDWbdq6EIg" # <--- PASTE YOUR GEMINI API KEY HERE
 
 # Basic check if the key was actually pasted
 if not GOOGLE_API_KEY or GOOGLE_API_KEY == "YOUR_ACTUAL_API_KEY_HERE":
-     print("Error: Please replace 'YOUR_ACTUAL_API_KEY_HERE' with your actual Google API Key in the script.")
-     exit()
+    print("Error: Please replace 'YOUR_ACTUAL_API_KEY_HERE' with your actual Google API Key in the script.")
+    exit()
 
 # --- Initialize Components ---
 
@@ -41,7 +40,7 @@ print(f"Loading embedding model: {EMBEDDING_MODEL_NAME}...")
 try:
     embeddings_model = HuggingFaceEmbeddings(
         model_name=EMBEDDING_MODEL_NAME,
-       )
+    )
     print("Embedding model loaded.")
 except Exception as e:
     print(f"Error loading embedding model: {e}")
@@ -56,7 +55,6 @@ except Exception as e:
     print(f"Error initializing LLM: {e}")
     print("Please ensure your GOOGLE_API_KEY is correct and activated.")
     exit()
-
 
 # --- Pre-compute Chunk Embeddings ---
 print(f"Generating embeddings for {len(DOCUMENT_CHUNKS)} chunks...")
@@ -91,11 +89,14 @@ def retrieve_relevant_chunks(query, top_k=TOP_K):
 # --- Define the RAG Chain ---
 
 template = """
-You are an assistant for question-answering tasks for plant diseases.
-Use the following pieces of retrieved context to answer the question.
-If you don't know the answer, just say that you don't know.
-Keep the answer concise and relevant to the question.
-understand the question and the retrieved context, and generate a smart answer from it.
+You are an intelligent assistant specialized in answering plant disease questions.
+Use the retrieved context provided to **understand** the question deeply and **generate a smart and helpful answer**.
+try to provide the answers in easy way to understand for non-specialized people.
+Do not copy the context directly — instead, synthesize information to best address the user's question.
+If the answer cannot be determined from the context, say you don't know, or if it out of the context answer the user normally.
+
+Chat History:
+{chat_history}
 
 Context:
 {context}
@@ -105,6 +106,7 @@ Question:
 
 Answer:
 """
+
 prompt = PromptTemplate.from_template(template)
 
 def format_docs(docs):
@@ -114,9 +116,12 @@ def format_docs(docs):
 rag_chain = (
     RunnablePassthrough()
     | prompt
-    | llm # This now correctly refers to the initialized ChatGoogleGenerativeAI instance
+    | llm
     | StrOutputParser()
 )
+
+# Initialize chat history array
+chat_history = []
 
 # --- Querying Loop ---
 print("\n--- RAG System Ready ---")
@@ -139,18 +144,22 @@ while True:
     try:
         answer = rag_chain.invoke({
             "context": context_string,
-            "question": query
+            "question": query,
+            "chat_history": "\n".join(chat_history)
         })
         print("\n--- Answer ---")
         print(answer)
         print("--------------")
+
+        # 3. Update chat history
+        chat_history.append(f"User: {query}")
+        chat_history.append(f"Assistant: {answer}")
+
     except Exception as e:
         print(f"\nError during LLM invocation: {e}")
         if "API key not valid" in str(e):
-             print("Check if your GOOGLE_API_KEY is correct and has Gemini API enabled.")
-        # You might encounter other API errors like quota issues depending on usage
+            print("Check if your GOOGLE_API_KEY is correct and has Gemini API enabled.")
         elif "permission" in str(e).lower() or "quota" in str(e).lower():
-             print("Check API key permissions and quota limits in your Google Cloud/AI Studio project.")
+            print("Check API key permissions and quota limits in your Google Cloud/AI Studio project.")
 
 print("\nExiting RAG system.")
-
